@@ -1,0 +1,390 @@
+[
+  {
+    "id": "20261115-112751-981573",
+    "titulo": "Patricia · Día 2/14 · 2026-11-15 11:27",
+    "fecha": "2026-11-15 11:27",
+    "datos": {
+      "nombre_jugador": "Patricia",
+      "edad_jugador": "16",
+      "comodines_elegidos": [
+        1
+      ],
+      "creditos": 5,
+      "oxigeno": 86.77059999999875,
+      "oxigeno_congelado": false,
+      "comida": 28.97188000001457,
+      "comida_congelado": false,
+      "radiacion": 93.25560000000172,
+      "radiacion_congelado": false,
+      "dia_actual": 2,
+      "duracion_dia_actual": 180.0,
+      "tiempo_dia": 174.81200000000183,
+      "dias_ignorados_acumulados": 1,
+      "misiones_del_dia": [
+        {
+          "nombre": "Recarga Tanque O2",
+          "modulo_id": 1,
+          "tipo": "URGENCIA",
+          "desc": "Soporte Vital: Presurización Válvula.",
+          "completada": false
+        },
+        {
+          "nombre": "Ajuste Escudo Radiación",
+          "modulo_id": 5,
+          "tipo": "URGENCIA",
+          "desc": "Meteorología: Previene radiación.",
+          "completada": false
+        },
+        {
+          "nombre": "Reemplazo Cartuchos CO2",
+          "modulo_id": 1,
+          "tipo": "SECUNDARIA",
+          "desc": "Ir a: Soporte Vital",
+          "completada": false
+        },
+        {
+          "nombre": "Secuencia Despresurización",
+          "modulo_id": 4,
+          "tipo": "SECUNDARIA",
+          "desc": "Ir a: Airlocks",
+          "completada": false
+        },
+        {
+          "nombre": "Inspección de Trajes",
+          "modulo_id": 4,
+          "tipo": "SECUNDARIA",
+          "desc": "Ir a: Airlocks",
+          "completada": false
+        },
+        {
+          "nombre": "Limpieza Filtros de Polvo",
+          "modulo_id": 1,
+          "tipo": "SECUNDARIA",
+          "desc": "Ir a: Soporte Vital",
+          "completada": false
+        },
+        {
+          "nombre": "Sellado de Casco",
+          "modulo_id": 4,
+          "tipo": "SECUNDARIA",
+          "desc": "Ir a: Airlocks",
+          "completada": false
+        },
+        {
+          "nombre": "Inventario de Raciones",
+          "modulo_id": 0,
+          "tipo": "SECUNDARIA",
+          "desc": "Ir a: Sala Común",
+          "completada": false
+        }
+      ],
+      "modulo_actual": 1,
+      "tutorial_activo": false,
+      "modulo_minijuego_activo": 1,
+      "id_minijuego": 2,
+      "paso_tutorial": 5,
+      "texto_tutorial_indice": 165.0,
+      "tutorial_fase": "final",
+      "panel_misiones_abierto": false,
+      "temp_actual": 12.0,
+      "tiempo_en_target": 0.0,
+      "luces_estado": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "manchas_polvo": [],
+      "paquetes": [],
+      "cajas_destino": [],
+      "paquete_arrastrando": null,
+      "eq_niveles": [
+        10,
+        90,
+        20
+      ],
+      "progreso_valvula": 100.0,
+      "n2_nivel": 78,
+      "o2_nivel": 23,
+      "fuga_rect": {
+        "__pygame_rect__": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "parche_rect": {
+        "__pygame_rect__": [
+          290,
+          350,
+          50,
+          50
+        ]
+      },
+      "parche_arrastrando": false,
+      "fuga_reparada": false,
+      "feedback_fuga": "",
+      "temporizador_feedback_fuga": 0.0,
+      "botones_drenaje": [],
+      "secuencia_drenaje_usuario": [],
+      "estado_co2": 0,
+      "cables_izq": [
+        {
+          "rect": {
+            "__pygame_rect__": [
+              300,
+              240,
+              30,
+              30
+            ]
+          },
+          "col": [
+            231,
+            76,
+            60
+          ],
+          "id": 1
+        },
+        {
+          "rect": {
+            "__pygame_rect__": [
+              300,
+              300,
+              30,
+              30
+            ]
+          },
+          "col": [
+            20,
+            110,
+            190
+          ],
+          "id": 2
+        },
+        {
+          "rect": {
+            "__pygame_rect__": [
+              300,
+              360,
+              30,
+              30
+            ]
+          },
+          "col": [
+            46,
+            204,
+            113
+          ],
+          "id": 3
+        }
+      ],
+      "cables_der": [
+        {
+          "rect": {
+            "__pygame_rect__": [
+              570,
+              240,
+              30,
+              30
+            ]
+          },
+          "col": [
+            46,
+            204,
+            113
+          ],
+          "id": 3
+        },
+        {
+          "rect": {
+            "__pygame_rect__": [
+              570,
+              300,
+              30,
+              30
+            ]
+          },
+          "col": [
+            231,
+            76,
+            60
+          ],
+          "id": 1
+        },
+        {
+          "rect": {
+            "__pygame_rect__": [
+              570,
+              360,
+              30,
+              30
+            ]
+          },
+          "col": [
+            20,
+            110,
+            190
+          ],
+          "id": 2
+        }
+      ],
+      "conexion_cable_seleccionado": null,
+      "conexiones_hechas": [
+        [
+          3,
+          3
+        ],
+        [
+          1,
+          1
+        ],
+        [
+          2,
+          2
+        ]
+      ],
+      "enfoque_microscopio": 10.0,
+      "tiempo_en_enfoque": 0.0,
+      "rocas": [],
+      "ingesta_muestras": [],
+      "camara_ingesta_rect": {
+        "__pygame_rect__": [
+          515,
+          250,
+          135,
+          125
+        ]
+      },
+      "progreso_ingesta": 0,
+      "ingesta_procesando": false,
+      "temporizador_ingesta": 0.0,
+      "feedback_ingesta": "",
+      "temporizador_feedback_ingesta": 0.0,
+      "analisis_muestras": [],
+      "indice_analisis": 0,
+      "errores_analisis": 0,
+      "feedback_analisis": "",
+      "temporizador_feedback_analisis": 0.0,
+      "botones_clasificacion": [
+        {
+          "rect": {
+            "__pygame_rect__": [
+              225,
+              415,
+              140,
+              42
+            ]
+          },
+          "clase": "GRANO FINO",
+          "lbl": "Grano fino"
+        },
+        {
+          "rect": {
+            "__pygame_rect__": [
+              375,
+              415,
+              140,
+              42
+            ]
+          },
+          "clase": "CRISTAL",
+          "lbl": "Cristal"
+        },
+        {
+          "rect": {
+            "__pygame_rect__": [
+              525,
+              415,
+              140,
+              42
+            ]
+          },
+          "clase": "FRAGMENTO",
+          "lbl": "Fragmento"
+        }
+      ],
+      "cajas_rocas": [],
+      "roca_arrastrando": null,
+      "secuencia_bio_objetivo": [],
+      "secuencia_bio_usuario": [],
+      "botones_bio": [],
+      "ph_actual": 4.0,
+      "garra_pos": [
+        330,
+        220
+      ],
+      "carga_rover": 0.0,
+      "psi_neumatico": 15.0,
+      "manchas_uv": [],
+      "cajas_rover": [],
+      "caja_rover_arrastrando": null,
+      "secuencia_eva_usuario": [],
+      "fisura_traje": {
+        "__pygame_rect__": [
+          0,
+          0,
+          0,
+          0
+        ]
+      },
+      "parche_eva_rect": {
+        "__pygame_rect__": [
+          290,
+          350,
+          50,
+          50
+        ]
+      },
+      "parche_eva_arrastrando": false,
+      "cierres_casco": [
+        false,
+        false,
+        false
+      ],
+      "carga_jetpack": 0.0,
+      "mosqueton_rect": {
+        "__pygame_rect__": [
+          300,
+          330,
+          50,
+          50
+        ]
+      },
+      "mosqueton_arrastrando": false,
+      "nivel_escudo_rad": 78.33333333333333,
+      "frecuencia_antena": 88.0,
+      "freno_viento": 0.0,
+      "polvo_sensores": [],
+      "secuencia_press_usuario": [],
+      "finales_desbloqueados": {
+        "FELIZ": false,
+        "REGRESO": false,
+        "MUERTE": false
+      },
+      "conceptos_desbloqueados": {
+        "salas": [
+          0,
+          1,
+          2,
+          3,
+          5
+        ],
+        "objetos": [
+          "pantalla_telemetria",
+          "camara_ingestion",
+          "tanque_nitrogeno",
+          "tanques_gases"
+        ]
+      },
+      "evento_dia_mensaje": "Aviso de soporte vital: un filtro está muy sucio. El oxígeno se consumirá más rápido; revisa las misiones de la base.",
+      "misiones_omitidas_evento": [],
+      "multiplicador_oxigeno_dia": 1.7,
+      "multiplicador_comida_dia": 1.0,
+      "multiplicador_radiacion_dia": 1.0,
+      "estado_juego": "JUGANDO",
+      "mision_en_curso_idx": null,
+      "mision_seleccionada_idx": null
+    }
+  }
+]
